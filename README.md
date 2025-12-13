@@ -1,6 +1,8 @@
 ## Table of Contents
    *  README.md
    *  script.js
+   *  LICENSE
+   *  gitignore
 
 ## General Information
    *  This repository was created as a project to use JavaScript and markdown
