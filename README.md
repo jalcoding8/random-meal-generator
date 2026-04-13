@@ -27,6 +27,7 @@ This Project is created with/by:
 
 ## Setup
 To run this program
-   * Download this file
+   * Copy script.js file
+   * Save to Downloads
    * In your terminal:  node script.js
 
